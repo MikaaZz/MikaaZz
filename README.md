@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mikhael Zimmermann</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Corre Brasil monorepo, recreate sites](https://github.com/MikaaZz/corre-brasil)
+- 🔭 I’m currently working on [Upgrade my React Skills](https://github.com/MikaaZz?tab=repositories)
 
 - 🌱 I’m currently learning **React and best libraries to use**
 
-- 👯 I’m looking to collaborate on **Game projects**
+- 👯 I’m looking to collaborate on **Web applications**
 
 - 👨‍💻 All of my projects are available at [mikhaelzimmermann.com](mikhaelzimmermann.com)
 
-- 💬 Ask me about **React, CSS**
+- 💬 Ask me about **React, JavaScript**
 
 - 📫 How to reach me **mikhael928@gmail.com**
 
