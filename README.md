@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mikhael Zimmermann</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate developer from Brazil</h3>
 
 - 🔭 I’m currently working on [Upgrade my React Skills](https://github.com/MikaaZz?tab=repositories)
 
